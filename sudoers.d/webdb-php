@@ -1,0 +1,5 @@
+Defaults:root  !requiretty
+Defaults:webdb-php !requiretty
+# Into container, webdb-php user as like as administrator
+webdb-php ALL=(ALL) NOPASSWD: ALL
+

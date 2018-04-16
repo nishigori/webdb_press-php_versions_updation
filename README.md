@@ -2,6 +2,8 @@
 
 これは [WEB+DB PRESS vol.104][webdb-press-link] に掲載されている *事業を支えるPHP* の動作確認環境です。
 
+* [お詫びと訂正（正誤表）](http://gihyo.jp/magazine/wdpress/archive/2018/vol104/support#supportApology)
+
 [webdb-press-link]: http://gihyo.jp/magazine/wdpress/archive/2018/vol104
 
 ## 動作環境の入手
